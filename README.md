@@ -1,2 +1,1 @@
-# Repozytorium-test
-Pierwsze
+Pierwsze repozytorium na próbę
